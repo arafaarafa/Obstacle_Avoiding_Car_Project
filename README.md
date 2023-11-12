@@ -1,5 +1,5 @@
 
-# Obstical Avoiding Car System 
+# Obstacle Avoiding Car System 
 
 ## Overview
 
